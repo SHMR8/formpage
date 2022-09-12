@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image:url('../Projeto/Assets/Images/Vegana-25.jpg');
+    background-image:url('./Assets/Images/Vegana-25.jpg');
 }
 header{
 justify-content: center;
